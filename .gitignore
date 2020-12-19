@@ -11,6 +11,14 @@
 # production
 /build
 
+/.firebase
+/src/index.js
+/database.rules.json
+/firebase.json
+/firestore.indexes.json
+/firestore.rules
+/storage.rules
+/.gitignore
 # misc
 .DS_Store
 .env.local
